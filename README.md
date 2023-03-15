@@ -5,6 +5,7 @@ Program in Python using the tryleap API to generate Images using AI, based on co
 
 You will need to retrieve an api key in the tryleap website https://www.tryleap.ai/
 
+## Prompt Examples
 
 ```python
 prompt="8k portrait of @me, pop art style, incredibly detailed faces, wearing a colorful men's suit, 🎨🖌️, idol, ios"
