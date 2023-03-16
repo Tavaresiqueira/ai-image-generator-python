@@ -5,6 +5,8 @@ Program in Python using the tryleap API to generate Images using AI, based on co
 
 You will need to retrieve an api key in the tryleap website https://www.tryleap.ai/
 
+To train this model I Uploaded the images in a S3 AWS and get a signed url to each Object
+
 ## Prompt Examples
 
 ```python
